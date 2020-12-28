@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,cACE,cAAe,CACf,wBAAyB,CACzB,uDACF","file":"main.0e123d9b.chunk.css","sourcesContent":[".main-content {\n  padding: 40px 0;\n  background-color: #00DBDE;\n  background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);\n}"]}
